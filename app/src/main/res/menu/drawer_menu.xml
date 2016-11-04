@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/drawer_group_content">
+        <menu>
+            <item
+                android:id="@+id/drawer_wangyi"
+                android:checkable="true"
+                android:checked="true"
+                android:title="@string/wangyi"/>
+            <item
+                android:id="@+id/drawer_zhihu"
+                android:checkable="true"
+                android:title="@string/zhihu"/>
+
+        </menu>
+    </item>
+
+</menu>
