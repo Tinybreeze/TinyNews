@@ -4,10 +4,10 @@ import android.app.Activity;
 
 import com.ptu.tinynews.di.module.ActivityModule;
 import com.ptu.tinynews.di.scope.ActivityScope;
-import com.ptu.tinynews.ui.main.activity.MainActivity;
-import com.ptu.tinynews.ui.yi.activity.NewsDetailActivity;
-import com.ptu.tinynews.ui.zhihu.activity.SectionActivity;
-import com.ptu.tinynews.ui.zhihu.activity.ZhihuDetailActivity;
+import com.ptu.tinynews.module.main.activity.MainActivity;
+import com.ptu.tinynews.module.yi.activity.NewsDetailActivity;
+import com.ptu.tinynews.module.zhihu.activity.SectionActivity;
+import com.ptu.tinynews.module.zhihu.activity.ZhihuDetailActivity;
 
 import dagger.Component;
 

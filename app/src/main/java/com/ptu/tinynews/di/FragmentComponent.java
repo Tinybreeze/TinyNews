@@ -4,9 +4,9 @@ import android.app.Activity;
 
 import com.ptu.tinynews.di.module.FragmentModule;
 import com.ptu.tinynews.di.scope.FragmentScope;
-import com.ptu.tinynews.ui.yi.fragment.NewsListFragment;
-import com.ptu.tinynews.ui.zhihu.fragment.DailyFragment;
-import com.ptu.tinynews.ui.zhihu.fragment.SectionFragment;
+import com.ptu.tinynews.module.yi.fragment.NewsListFragment;
+import com.ptu.tinynews.module.zhihu.fragment.DailyFragment;
+import com.ptu.tinynews.module.zhihu.fragment.SectionFragment;
 
 import dagger.Component;
 
