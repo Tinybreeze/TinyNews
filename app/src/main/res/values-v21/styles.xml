@@ -5,7 +5,7 @@
         <!--        <item name="android:windowTranslucentStatus">true</item>
                 <item name="android:windowTranslucentNavigation">true</item>-->
         <!--选中状态icon的颜色和字体颜色-->
-        <item name="android:fitsSystemWindows">true</item>
+        <!--<item name="android:fitsSystemWindows">true</item>-->
        <!-- <item name="colorPrimary">@android:color/holo_blue_dark</item>-->
         <!--<item name="colorPrimaryDark">@android:color/holo_blue_dark</item>-->
         <!--<item name="colorAccent">@android:color/holo_green_light</item>-->
@@ -14,7 +14,7 @@
 
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimary</item>
-        <item name="colorAccent">@android:color/holo_green_light</item>
+        <item name="colorAccent">@android:color/white</item>
         <item name="android:textColorPrimary">@android:color/white</item>
 
         //沉浸状态栏
