@@ -13,7 +13,7 @@ import rx.Subscription;
 import rx.functions.Action1;
 
 /**
- * Created by codeest on 16/8/12.
+ * Created by Administrator on 2016/10/19.
  */
 
 public class SectionPresenter extends RxPresenter<SectionContract.View> implements SectionContract.Presenter{

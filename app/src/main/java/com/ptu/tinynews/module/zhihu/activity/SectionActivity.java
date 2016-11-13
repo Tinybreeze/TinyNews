@@ -21,9 +21,8 @@ import java.util.List;
 import butterknife.BindView;
 
 /**
- * Created by codeest on 16/8/28.
+ * Created by Administrator on 2016/10/19.
  */
-
 public class SectionActivity extends BaseActivity<SectionChildPresenter> implements SectionChildContract.View {
 
     @BindView(R.id.rv_section_content)

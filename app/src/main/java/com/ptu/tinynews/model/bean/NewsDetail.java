@@ -19,8 +19,7 @@ package com.ptu.tinynews.model.bean;
 import java.util.List;
 
 /**
- * @author 咖枯
- * @version 1.0 2016/6/4
+ * Created by Administrator on 2016/8/26.
  */
 public class NewsDetail
 {

@@ -1,8 +1,7 @@
 package com.ptu.tinynews.model.bean;
 
 /**
- * Created by ZY on 2016/7/27.
- * 文章主题详细介绍
+ * Created by Administrator on 2016/8/26.
  */
 public class Others {
 

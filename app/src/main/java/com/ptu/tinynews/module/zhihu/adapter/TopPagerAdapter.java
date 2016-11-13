@@ -18,7 +18,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by codeest on 16/8/13.
+ * Created by Administrator on 2016/10/19.
  */
 
 public class TopPagerAdapter extends PagerAdapter

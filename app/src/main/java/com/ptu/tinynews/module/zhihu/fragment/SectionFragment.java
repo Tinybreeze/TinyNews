@@ -18,7 +18,7 @@ import java.util.List;
 import butterknife.BindView;
 
 /**
- * Created by codeest on 2016/8/11.
+ * Created by Administrator on 2016/10/19.
  */
 public class SectionFragment extends BaseFragment<SectionPresenter> implements SectionContract.View {
 

@@ -23,8 +23,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author 咖枯
- * @version 1.0 2016/7/8
+ * Created by Administrator on 2016/8/26.
  */
 public class NewsPhotoDetail implements Parcelable {
     private String title;

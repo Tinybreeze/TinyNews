@@ -1,8 +1,7 @@
 package com.ptu.tinynews.model.bean;
 
 /**
- * Created by ZY on 2016/7/26.
- * 热门文章
+ * Created by Administrator on 2016/8/26.
  */
 public class TopStories {
 

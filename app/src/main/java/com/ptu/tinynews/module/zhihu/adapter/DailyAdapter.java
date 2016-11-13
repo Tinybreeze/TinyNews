@@ -24,12 +24,7 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 
 /**
- * Created by codeest on 16/8/13.
- * <p>
- * 一开始打算用ScrollView嵌套RecyclerView来实现
- * 但是RecyclerView23.1.1之后的版本嵌套会显示不全
- * Google也不推荐ScrollView嵌套RecyclerView
- * 还是采取getItemViewType来实现
+ * Created by Administrator on 2016/10/19.
  */
 
 public class DailyAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder>

@@ -19,7 +19,7 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 
 /**
- * Created by codeest on 16/8/28.
+ * Created by Administrator on 2016/10/19.
  */
 
 public class SectionChildAdapter extends RecyclerView.Adapter<SectionChildAdapter.ViewHolder>{

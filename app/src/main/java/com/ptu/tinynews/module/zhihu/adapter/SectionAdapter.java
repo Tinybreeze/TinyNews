@@ -20,9 +20,8 @@ import java.util.List;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
-
 /**
- * Created by codeest on 16/8/21.
+ * Created by Administrator on 2016/10/19.
  */
 
 public class SectionAdapter extends RecyclerView.Adapter<SectionAdapter.ViewHolder>{

@@ -19,8 +19,7 @@ import retrofit2.http.Path;
 import rx.Observable;
 
 /**
- * Created by codeest on 2016/8/2.
- * 知乎APIs
+ * Created by Administrator on 2016/9/1.
  */
 public interface ZhihuApis
 {

@@ -24,7 +24,7 @@ import net.opacapp.multilinecollapsingtoolbar.CollapsingToolbarLayout;
 import butterknife.BindView;
 
 /**
- * Created by codeest on 16/8/13.
+ * Created by Administrator on 2016/10/19.
  */
 
 public class ZhihuDetailActivity extends BaseActivity<ZhihuDetailPresenter> implements ZhihuDetailContract.View

@@ -3,9 +3,7 @@ package com.ptu.tinynews.model.bean;
 import java.util.List;
 
 /**
- * Created by ZY on 2016/7/27.
- * 文章主题列表
- * 链接：http://news-at.zhihu.com/api/4/themes
+ * Created by Administrator on 2016/8/26.
  */
 public class Theme {
 

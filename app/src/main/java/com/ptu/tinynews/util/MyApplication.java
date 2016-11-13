@@ -12,7 +12,7 @@ import com.nostra13.universalimageloader.utils.StorageUtils;
 import java.io.File;
 
 /**
- * Created by ZY on 2016/7/26.
+ * Created by Administrator on 2016/9/10
  * 自定义Application，用于配置ImageLoaderConfiguration
  */
 public class MyApplication extends Application

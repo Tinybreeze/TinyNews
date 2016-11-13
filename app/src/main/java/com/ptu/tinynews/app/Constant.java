@@ -23,10 +23,8 @@ import com.ptu.tinynews.R;
 import com.ptu.tinynews.model.http.WangyiApis;
 
 import java.io.File;
-
 /**
- * @author 咖枯
- * @version 1.0 2016/5/31
+ * Created by Administrator on 2016/8/26.
  */
 public class Constant
 {

@@ -3,7 +3,7 @@ package com.ptu.tinynews.model.bean;
 import java.util.List;
 
 /**
- * Created by ZY on 2016/7/26.
+ * Created by Administrator on 2016/8/26.
  * 文章详细内容，在链接后缀加上文章ID即可获取文章内容
  * 链接：http://news-at.zhihu.com/api/4/news/1747159
  */

@@ -1,7 +1,7 @@
 package com.ptu.tinynews.model.bean;
 
 /**
- * Created by codeest on 16/8/15.
+ * Created by Administrator on 2016/8/26.
  */
 
 public class WelcomeBean

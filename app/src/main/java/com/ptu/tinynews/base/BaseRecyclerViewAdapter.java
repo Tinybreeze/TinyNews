@@ -28,8 +28,7 @@ import android.view.animation.AnimationUtils;
 import java.util.List;
 
 /**
- * @author 咖枯
- * @version 1.0 2016/8/6
+ * Created by Administrator on 2016/9/20.
  */
 public abstract class BaseRecyclerViewAdapter<T> extends RecyclerView.Adapter<RecyclerView.ViewHolder>
 {

@@ -30,8 +30,7 @@ import retrofit2.http.Url;
 import rx.Observable;
 
 /**
- * @author 咖枯
- * @version 1.0 2016/5/24
+ * Created by Administrator on 2016/9/10.
  */
 public interface WangyiApis
 {

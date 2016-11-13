@@ -3,8 +3,7 @@ package com.ptu.tinynews.model.bean;
 import java.util.List;
 
 /**
- * Created by ZY on 2016/7/26.
- * 普通文章
+ * Created by Administrator on 2016/8/26.
  */
 public class Stories {
 

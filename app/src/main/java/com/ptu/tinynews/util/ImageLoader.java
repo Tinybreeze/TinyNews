@@ -8,7 +8,7 @@ import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
 
 /**
- * Created by codeest on 2016/8/2.
+ * Created by Administrator on 2016/9/19.
  */
 public class ImageLoader {
 

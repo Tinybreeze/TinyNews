@@ -3,7 +3,7 @@ package com.ptu.tinynews.model.bean;
 import java.util.List;
 
 /**
- * Created by codeest on 16/8/21.
+ * Created by Administrator on 2016/8/26.
  */
 
 public class HotListBean
